@@ -10,7 +10,7 @@
 |---|---|---|
 |Sangmyung Univ. 스마트정보통신공학부|2019.03 ~ 재학중|-|
 |데브코스 - 프로그래머스|2024.03~ 2024.07|[수료증]()|
-|BDA(Big Data Analysis) 학회 9기|2024.09 ~ 2025.03|[수료증]()|
+|BDA(Big Data Analysis) 학회 9기|2024.09 ~ 2025.03|[수료증](https://github.com/0519chan/Certification/blob/main/9%EA%B8%B0%20%EC%88%98%EB%A3%8C%ED%95%99%ED%9A%8C%EC%9B%90%20%EC%88%98%EB%A3%8C%EC%A6%9D%20(1-266)-198.pdf)|
 
 ---
 
