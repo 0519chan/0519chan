@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/RNN-6A5ACD?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-228B22?style=flat-square&logo=&logoColor=white"/>
 
 #### [ Cloud & DevOps ]
-<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/><img src="https://img.shields.io/badge/googlebigquery-669DF6?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/> <img src="https://img.shields.io/badge/googlebigquery-669DF6?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
 
 #### [ Development Tools ]
@@ -44,7 +44,8 @@
 ---
 
 ## 💌 BLOG & E-mail & SNS 
-[![Velog Blog](https://img.shields.io/badge/Velog-Blog-orange?logo=velog)](https://moonsejin315.tistory.com/)
+<a href="[https://velog.io/@zaman17](https://velog.io/@laiepang/posts)"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
+velog
 <br/>
 <br/>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:laiepang@gmail.com)
