@@ -45,7 +45,6 @@
 
 ## 💌 BLOG & E-mail & SNS 
 <a href="[https://velog.io/@zaman17](https://velog.io/@laiepang/posts)"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
-velog
 <br/>
 <br/>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:laiepang@gmail.com)
