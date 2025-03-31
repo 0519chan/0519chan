@@ -18,7 +18,7 @@
 ## 🛠️ Stacks
 #### [ Language ]
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/googlebigquery-#669DF6?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/googlebigquery-669DF6?style=flat-square&logo=Python&logoColor=white"/>
 #### [ Data Analytics ]
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
 
@@ -30,12 +30,10 @@
 
 
 #### [ Development Tools ]
-<img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
 ---
 
-## 🌴 Currently Learning
-<img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
 
 
@@ -47,11 +45,10 @@
 ---
 
 ## 💌 BLOG & E-mail & SNS 
-[![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?logo=tistory)](https://moonsejin315.tistory.com/)
+[![Velog Blog](https://img.shields.io/badge/Velog-Blog-orange?logo=velog)](https://moonsejin315.tistory.com/)
 <br/>
 <br/>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:moonsejin315@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:laiepang@gmail.com)
 <br/>
 <br/>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/__sejinmoon__)
 
